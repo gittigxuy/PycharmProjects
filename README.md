@@ -1,2 +1,1 @@
-# PycharmProjects
-Vodka unicoe's code logs
+评估citypersons数据集的python代码，可以通过python代码生成evaluate.py可以读取的json文件
